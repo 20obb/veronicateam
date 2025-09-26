@@ -6,4 +6,4 @@ Codename: veronica
 Architectures: iphoneos-arm iphoneos-arm64
 Components: main
 Description: veronica's Cydia Repository
-Icon: file://ver.png
+Icon: file://CydiaIcon.png
