@@ -39,10 +39,10 @@ Package: com.tigisoftware.filza
 Version: 4.0.1-2
 Architecture: iphoneos-arm
 Maintainer: devil
-Installed-Size: 264
+Installed-Size: 100000
 Conflicts:
 Filename: ./debs/com.tigisoftware.filza_v4.0.1-2_iphoneos-arm.deb
-Size: 12292
+Size: 100000
 MD5sum: bee1ccf0704990b0f0a1ae1acc8fb92c
 SHA1: f68a597e3420c30b8bca2480c3bb732cad8e2608
 SHA256: 582cf388894e54dd2831b988377fef271d38f5befe56e6f14f071f1f5da99855
