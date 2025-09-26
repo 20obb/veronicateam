@@ -1,0 +1,9 @@
+Origin: veronica's Repo
+Label: veronica's Repo
+Suite: stable
+Version: 1.0
+Codename: veronica
+Architectures: iphoneos-arm iphoneos-arm64
+Components: main
+Description: veronica's Cydia Repository
+Icon: file://CydiaIcon.png
