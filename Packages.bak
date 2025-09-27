@@ -1,0 +1,111 @@
+Package: com.opa334.libsandy
+Version: 1.1.4
+Architecture: iphoneos-arm
+Maintainer: opa334
+Installed-Size: 312
+Conflicts: ws.hbang.stopcrashingpls (<= 1.0.2)
+Filename: ./debs/com.opa334.libsandy_1.1.4_iphoneos-arm.deb
+Section: System
+Description: Securely extend the sandbox of system processes and user applications
+Tag: role::developer
+Author: opa334
+Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libsandyDp
+Name: libSandy
+Size: 20546
+MD5sum: 25e8918d912d4ece138a221b6d5731a6
+SHA1: 970b4d73c793ae3561abac288347922818b9b0fe
+SHA256: e80b6573fec6cbe3d30274683d2df7692642c70546fe3321247328c97058d010
+
+Package: com.opa334.libsandy
+Version: 1.1.4
+Architecture: iphoneos-arm64
+Maintainer: opa334
+Installed-Size: 264
+Conflicts: ws.hbang.stopcrashingpls (<= 1.0.2)
+Filename: ./debs/com.opa334.libsandy_1.1.4_iphoneos-arm64.deb
+Section: System
+Description: Securely extend the sandbox of system processes and user applications
+Tag: role::developer
+Author: opa334
+Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libsandyDp
+Name: libSandy
+Size: 12292
+MD5sum: bee1ccf0704990b0f0a1ae1acc8fb92c
+SHA1: f68a597e3420c30b8bca2480c3bb732cad8e2608
+SHA256: 582cf388894e54dd2831b988377fef271d38f5befe56e6f14f071f1f5da99855
+
+Package: com.tigisoftware.filza
+Version: 4.0.1-2
+Architecture: iphoneos-arm
+Maintainer: devil
+Filename: ./debs/com.tigisoftware.filza_v4.0.1-2_iphoneos-arm.deb
+Section: Utilities
+Description: Powerful file manager for iOS
+Tag: role::enduser
+Author: devil
+Name: filza file manager
+Size: 13929994
+MD5sum: c68a629c82d46f5a49ec8c93b750bb92
+SHA1: 677bae75af27ed30af0934048c439565498a1908
+SHA256: 3bed517bf606e7849632b96a727fb1f4e105f6c70d8007dfc4f6789681db98f9
+
+Package: com.dvntm.showmytouches
+Version: 1.1.3
+Architecture: iphoneos-arm
+Maintainer: devil
+Filename: ./debs/com.dvntm.showmytouches_1.1.3_iphoneos-arm.deb
+Section: System
+Description: Show touches on the screen
+Tag: role::enduser
+Author: devil
+Name: show my touches
+Icon: https://idevicecentral.com/tweaksdb/assets/images/tweaks/2815.png
+Size: 53670
+MD5sum: 34cc9f647b1c6336d259e6c3bc4f6062
+SHA1: 9e15dffc49014088f336b09c78657e7daee7c62a
+SHA256: 0af740120f45166601e9125a19af6437349594732fbe0e26e2dc91e99910a4cf
+
+Package: com.bandarhl.bhinsta
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: devil
+Filename: ./debs/com.bandarhl.bhinsta_1.2_iphoneos-arm.deb
+Section: Utilities
+Description: A powerful Instagram client
+Tag: role::enduser
+Author: devil
+Name: bhinsta
+Size: 69502
+MD5sum: 7b9b191e52f7fe43144dc36d737ada6b
+SHA1: 5017898ecf569f2c3fded9c542f6ef7a4d074a18
+SHA256: 5cfb633e808ef2114074276175dc221da660e1bdb7b098923e6f216e220fbc80
+
+Package: ai.akemi.appsyncunified
+Version: 116.0
+Architecture: iphoneos-arm
+Maintainer: devil
+Filename: ./debs/ai.akemi.appsyncunified_116.0_iphoneos-arm.akemi-git-235aca6cddfbdc9fa87fcb5b2aec2df37ed6d65a.deb
+Section: System
+Description: A powerful AppSync tool to install any app without certificate check
+Tag: role::enduser
+Author: devil
+Name: AppSync Unified
+Size: 51658
+MD5sum: 536009a11dad57e48a5563224eaffaff
+SHA1: e0fa412cb3c26718887edd834804c88909297079
+SHA256: 0036f28fcbdb165d4f58968a237ca9fe7b6ed33fea25b9a5eb1fc141f6bf5a09
+
+Package: org.coolstar.sileo
+Version: 2.3.6
+Architecture: iphoneos-arm
+Maintainer: devil
+Filename: ./debs/org.coolstar.sileo_2.3.6_iphoneos-arm.deb
+Section: Utilities
+Description: A modern package manager for jailbroken devices
+Tag: role::enduser
+Author: devil
+Name: Sileo Package Manager
+Size: 12345678
+MD5sum: d41d8cd98f00b204e9800998ecf8427e
+SHA1: da39
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
